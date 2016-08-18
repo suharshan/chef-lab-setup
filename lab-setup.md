@@ -1,11 +1,13 @@
-Prerequisites:
+##Prerequisites:
+
 Basic understanding of linux/unix system concepts
 Familiarity with Command Line Interface (CLI)
-Systems Preparation
-Hardware Requirements
 
-COMPONENT
-MINIMUM REQUIREMENT
+##Systems Preparation
+
+###Hardware Requirements
+
+|COMPONENT | MINIMUM REQUIREMENT
 System
 Laptop/Desktop with internet connection
 Memory
