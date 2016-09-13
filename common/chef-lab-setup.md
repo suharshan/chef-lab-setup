@@ -9,7 +9,7 @@
 
 #### System Prerequisites : Hardware and Software
 
-Refer to [Hardware and Software Pre Requisites](./software_requirements.md) page.
+Please refer [Hardware and Software Pre Requisites](./software_requirements.md).
 
 
 ### Systems Preparation
