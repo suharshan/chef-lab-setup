@@ -25,4 +25,3 @@ For preparing system to run virtual machines, and with setup of useful utilities
 * On Linux, **Edit** -> **Preferences**. On OS X, select **Atom** -> **Preferences**. On Windows **File** -> **Settings**
 * From **Install**, Search for **language-chef** and install the extension.  
 * Restart Atom
-![](/images/lan-chef.png)
