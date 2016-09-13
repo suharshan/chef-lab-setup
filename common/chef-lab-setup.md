@@ -1,4 +1,4 @@
-# Lab Setup Instructions - Chef
+# Chef - Lab Setup Instructions
 ====================
 
 ### Prerequisites:
