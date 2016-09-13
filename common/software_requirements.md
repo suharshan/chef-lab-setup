@@ -10,7 +10,7 @@
 | Memory |  8GB RAM |
 |  CPU    |  Quad Core CPU |
 | Disk Space | 20 GB Disk Space available |
-| OS |  Windows / OSX |
+| OS |  Linux / OSX / Windows |
 
 ####  Softwares Prerequisites
 
