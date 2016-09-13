@@ -22,7 +22,7 @@ For preparing system to run virtual machines, and with setup of useful utilities
 
 #### Install Chef Plugin for Atom
 * Open Atom editor
-* On OS X, select **Atom** -> **Preferences**. On Windows **File** -> **Settings**
+* On Linux, **Edit** -> **Preferences**. On OS X, select **Atom** -> **Preferences**. On Windows **File** -> **Settings**
 * From **Install**, Search for **language-chef** and install the extension.  
 * Restart Atom
 ![](/images/lan-chef.png)
