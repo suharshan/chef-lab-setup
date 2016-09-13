@@ -1,10 +1,6 @@
 # Lab Setup Instructions - Chef
 ====================
 
-### Target Audience
-
-This introductory course is targeted for the budding devops professionals, experienced sysadmins and enthusiasts alike who are already using puppet, or intend to use it to automate configuration management, system integration and manage scalable infrastructures with ease.
-
 ### Prerequisites:
 * Basic understanding of linux/unix system concepts
 * Familiarity with Command Line Interface (CLI)
@@ -13,7 +9,7 @@ This introductory course is targeted for the budding devops professionals, exper
 
 #### System Prerequisites : Hardware and Software
 
-Refer to [Hardware and Software Pre Requisites](../../common/hardware_software_requirements.md) page.
+Refer to [Hardware and Software Pre Requisites](common/hardware_software_requirements.md) page.
 
 
 ### Systems Preparation
